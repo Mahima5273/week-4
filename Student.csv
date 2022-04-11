@@ -1,0 +1,4 @@
+StudentID,StudentName,DateOfBirth,IsFeePaid,ParentID
+1,Rahul,1992-04-12,Yes,1
+2,Kodali,1990-01-24,Yes,1
+3,Mark,1996-11-08,No,3
